@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+table{border:5px solid #339;
+      width:450px;
+	  height:280px;
+	  padding:2px;
+	  text-align:center;
+	  background-color:#FCF;
+	  
+	  }
+th{background-color:#0FF;
+   }
+td{background-color:#FFC;}
+#chkbx{ background-color:#F36;}
